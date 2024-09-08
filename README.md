@@ -23,7 +23,17 @@ ecosystem.
 
 ## Screenshots
 
-![Home](screenshots/home.png)
-![Favourites](screenshots/favs.png)
-![Editor](screenshots/editor.png)
-![Search](screenshots/search.png)
+<div style="display:flex;">
+    <img
+        src="screenshots/home.png"
+        alt="Home" width="24%" />
+    <img
+        src="screenshots/favs.png"
+        alt="Favourites" width="24%" />
+    <img
+        src="screenshots/editor.png"
+        alt="Editor" width="24%" />
+    <img
+        src="screenshots/search.png"
+        alt="Search" width="24%" />
+</div>
